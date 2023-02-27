@@ -1,0 +1,6 @@
+{"messaging_product":"whatsapp", "to":"50371683726","type":
+"template","template":{"name":"update_01","language":
+{"code":"es"},"components":
+[{"type":"body","parameters":
+[{"type":"text","text":"<<[Evento]>>"},
+{"type":"text","text":"<<[Cantidad]>>"}]}]}}
